@@ -66,6 +66,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 
 ## BRANCHES
+```
 git checkout -b 01_02b remotes/origin/01_02b
 git checkout -b 01_02e remotes/origin/01_02e
 git checkout -b 02_01b remotes/origin/02_01b
@@ -88,3 +89,4 @@ git checkout -b 04_03b remotes/origin/04_03b
 git checkout -b 04_03e remotes/origin/04_03e
 git checkout -b 04_04b remotes/origin/04_04b
 git checkout -b 04_04e remotes/origin/04_04e
+```
