@@ -63,3 +63,28 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/spring-spring-integration
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2848253/2848253-1611257542249-16x9.jpg
     
+
+
+## BRANCHES
+git checkout -b 01_02b remotes/origin/01_02b
+git checkout -b 01_02e remotes/origin/01_02e
+git checkout -b 02_01b remotes/origin/02_01b
+git checkout -b 02_01e remotes/origin/02_01e
+git checkout -b 02_02b remotes/origin/02_02b
+git checkout -b 02_02e remotes/origin/02_02e
+git checkout -b 02_03b remotes/origin/02_03b
+git checkout -b 02_03e remotes/origin/02_03e
+git checkout -b 02_04b remotes/origin/02_04b
+git checkout -b 02_05e remotes/origin/02_05e
+git checkout -b 03_02b remotes/origin/03_02b
+git checkout -b 03_02e remotes/origin/03_02e
+git checkout -b 03_03b remotes/origin/03_03b
+git checkout -b 03_03e remotes/origin/03_03e
+git checkout -b 03_04b remotes/origin/03_04b
+git checkout -b 03_05e remotes/origin/03_05e
+git checkout -b 04_02b remotes/origin/04_02b
+git checkout -b 04_02e remotes/origin/04_02e
+git checkout -b 04_03b remotes/origin/04_03b
+git checkout -b 04_03e remotes/origin/04_03e
+git checkout -b 04_04b remotes/origin/04_04b
+git checkout -b 04_04e remotes/origin/04_04e
